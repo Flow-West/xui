@@ -2,8 +2,8 @@
 <html lang="ru">
   <head>
     <meta charset="UTF-8">
-    <title>Название страницы</title>
-    <meta name="description" content="Описание страницы" />
+    <title>История писькогрыза №1488</title>
+    <meta name="description" content="Кто читает тот лох." />
     
     <link rel="stylesheet" type="text/css" href="/assets/css/style.css" />
     <link rel="icon" href="/img/favicon.png">
@@ -15,19 +15,19 @@
   </head>
   <body>
     <header>
-      Шапка
+      Шапка(ушанка)
       <nav>
-        Навигация
+        Навигация(какашка какаято)
       </nav>
     </header>
     <main>
       <section>
-        <h1>Заголовок страницы</h1>
-        Основная часть
+        <h1>Шел писькогрыз по северному полюсу и нашел глок-18 и застрелился</h1>
+        
       </section>
     </main>
     <aside>
-      Боковая колонка (сайдбар)
+      шкебеде доп доп доп ес ес
     </aside>
     <footer>
       Подвал
